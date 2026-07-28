@@ -8,14 +8,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Two Pointers
 |  |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
