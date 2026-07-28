@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanwalia7/DSA_learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanwalia7/DSA_learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanwalia7/DSA_learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Two Pointers
@@ -55,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aryanwalia7/DSA_learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
