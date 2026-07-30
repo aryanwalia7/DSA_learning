@@ -43,16 +43,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/aryanwalia7/DSA_learning/tree/master/0054-spiral-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
@@ -75,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
