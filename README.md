@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanwalia7/DSA_learning/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/aryanwalia7/DSA_learning/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanwalia7/DSA_learning/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/aryanwalia7/DSA_learning/tree/master/0054-spiral-matrix) |
+| [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
