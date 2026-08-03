@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanwalia7/DSA_learning/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/aryanwalia7/DSA_learning/tree/master/0443-string-compression) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 ## Array
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanwalia7/DSA_learning/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/aryanwalia7/DSA_learning/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
