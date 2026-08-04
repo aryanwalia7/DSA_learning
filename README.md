@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aryanwalia7/DSA_learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryanwalia7/DSA_learning/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
