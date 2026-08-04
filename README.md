@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
+| [3731-find-missing-elements](https://github.com/aryanwalia7/DSA_learning/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/aryanwalia7/DSA_learning/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/aryanwalia7/DSA_learning/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
