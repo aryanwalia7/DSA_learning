@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
+| [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
