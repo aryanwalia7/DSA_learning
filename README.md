@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
+| [3310-remove-methods-from-project](https://github.com/aryanwalia7/DSA_learning/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
+| [3310-remove-methods-from-project](https://github.com/aryanwalia7/DSA_learning/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
+| [3310-remove-methods-from-project](https://github.com/aryanwalia7/DSA_learning/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
