@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryanwalia7/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/aryanwalia7/DSA_learning/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/aryanwalia7/DSA_learning/tree/master/0443-string-compression) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryanwalia7/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/aryanwalia7/DSA_learning/tree/master/3731-find-missing-elements) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryanwalia7/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
