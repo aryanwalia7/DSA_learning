@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/aryanwalia7/DSA_learning/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/aryanwalia7/DSA_learning/tree/master/0709-to-lower-case) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/aryanwalia7/DSA_learning/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
 ## Hash Table
 |  |
