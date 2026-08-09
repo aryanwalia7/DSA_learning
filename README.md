@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aryanwalia7/DSA_learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/aryanwalia7/DSA_learning/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aryanwalia7/DSA_learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryanwalia7/DSA_learning/tree/master/0485-max-consecutive-ones) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryanwalia7/DSA_learning/tree/master/0989-add-to-array-form-of-integer) |
