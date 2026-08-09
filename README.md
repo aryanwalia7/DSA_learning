@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryanwalia7/DSA_learning/tree/master/0989-add-to-array-form-of-integer) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
+| [1991-find-the-middle-index-in-array](https://github.com/aryanwalia7/DSA_learning/tree/master/1991-find-the-middle-index-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/aryanwalia7/DSA_learning/tree/master/3731-find-missing-elements) |
 ## Math
@@ -186,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aryanwalia7/DSA_learning/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/aryanwalia7/DSA_learning/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
