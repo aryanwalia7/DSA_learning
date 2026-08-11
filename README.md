@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aryanwalia7/DSA_learning/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanwalia7/DSA_learning/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryanwalia7/DSA_learning/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aryanwalia7/DSA_learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
