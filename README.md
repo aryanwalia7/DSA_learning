@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/aryanwalia7/DSA_learning/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/aryanwalia7/DSA_learning/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Topological Sort
 |  |
