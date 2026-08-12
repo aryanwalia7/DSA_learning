@@ -4,11 +4,12 @@ class Solution {
         int neg=nums[0];
         int max=nums[0];
         for(int i=1;i<nums.length;i++){
-            int pos1=Math.max(nums[i],Math.max(nums[i]*pos,nums[i]*neg));
-            int neg1=Math.min(nums[i],Math.min(nums[i]*pos,nums[i]*neg));
-            pos=pos1;
-            neg=neg1;
-            max=Math.max(max,pos);
+            int npos=Math.max(nums[i],Math.max(nums[i]*pos,nums[i]*neg));
+            int nneg=Math.min(nums[i],Math.min(nums[i]*pos,nums[i]*neg));
+
+            pos=npos;
+            neg=nneg;
+            max=Math.max(pos,max);
         }
         return max;
     }
