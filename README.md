@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/aryanwalia7/DSA_learning/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryanwalia7/DSA_learning/tree/master/0989-add-to-array-form-of-integer) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryanwalia7/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanwalia7/DSA_learning/tree/master/1331-rank-transform-of-an-array) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryanwalia7/DSA_learning/tree/master/1991-find-the-middle-index-in-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryanwalia7/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanwalia7/DSA_learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aryanwalia7/DSA_learning/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryanwalia7/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanwalia7/DSA_learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanwalia7/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanwalia7/DSA_learning/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryanwalia7/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryanwalia7/DSA_learning/tree/master/1991-find-the-middle-index-in-array) |
 ## Queue
 |  |
