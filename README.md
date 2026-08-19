@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryanwalia7/DSA_learning/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/aryanwalia7/DSA_learning/tree/master/0273-integer-to-english-words) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aryanwalia7/DSA_learning/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/aryanwalia7/DSA_learning/tree/master/0273-integer-to-english-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryanwalia7/DSA_learning/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
