@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryanwalia7/DSA_learning/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryanwalia7/DSA_learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanwalia7/DSA_learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/aryanwalia7/DSA_learning/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanwalia7/DSA_learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanwalia7/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
@@ -271,5 +273,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanwalia7/DSA_learning/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
