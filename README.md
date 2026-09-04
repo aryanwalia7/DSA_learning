@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/aryanwalia7/DSA_learning/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanwalia7/DSA_learning/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/aryanwalia7/DSA_learning/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanwalia7/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanwalia7/DSA_learning/tree/master/0724-find-pivot-index) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/aryanwalia7/DSA_learning/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/aryanwalia7/DSA_learning/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanwalia7/DSA_learning/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanwalia7/DSA_learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanwalia7/DSA_learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanwalia7/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
@@ -279,4 +283,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
