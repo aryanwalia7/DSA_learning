@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryanwalia7/DSA_learning/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0039-combination-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aryanwalia7/DSA_learning/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanwalia7/DSA_learning/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aryanwalia7/DSA_learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryanwalia7/DSA_learning/tree/master/0054-spiral-matrix) |
