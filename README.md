@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aryanwalia7/DSA_learning/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanwalia7/DSA_learning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryanwalia7/DSA_learning/tree/master/0724-find-pivot-index) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanwalia7/DSA_learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aryanwalia7/DSA_learning/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
@@ -310,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryanwalia7/DSA_learning/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
