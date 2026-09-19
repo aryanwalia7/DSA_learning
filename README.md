@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanwalia7/DSA_learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryanwalia7/DSA_learning/tree/master/0797-all-paths-from-source-to-target) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/aryanwalia7/DSA_learning/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanwalia7/DSA_learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryanwalia7/DSA_learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
