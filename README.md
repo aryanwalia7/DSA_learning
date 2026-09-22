@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aryanwalia7/DSA_learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryanwalia7/DSA_learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanwalia7/DSA_learning/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/aryanwalia7/DSA_learning/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aryanwalia7/DSA_learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0226-invert-binary-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryanwalia7/DSA_learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/aryanwalia7/DSA_learning/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aryanwalia7/DSA_learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aryanwalia7/DSA_learning/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0226-invert-binary-tree) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aryanwalia7/DSA_learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aryanwalia7/DSA_learning/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/aryanwalia7/DSA_learning/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanwalia7/DSA_learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryanwalia7/DSA_learning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aryanwalia7/DSA_learning/tree/master/0287-find-the-duplicate-number) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryanwalia7/DSA_learning/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/aryanwalia7/DSA_learning/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aryanwalia7/DSA_learning/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aryanwalia7/DSA_learning/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
