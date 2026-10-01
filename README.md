@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aryanwalia7/DSA_learning/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryanwalia7/DSA_learning/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanwalia7/DSA_learning/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aryanwalia7/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/aryanwalia7/DSA_learning/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryanwalia7/DSA_learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1946-largest-number-after-mutating-substring](https://github.com/aryanwalia7/DSA_learning/tree/master/1946-largest-number-after-mutating-substring) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryanwalia7/DSA_learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/aryanwalia7/DSA_learning/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aryanwalia7/DSA_learning/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aryanwalia7/DSA_learning/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryanwalia7/DSA_learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Shortest Path
 |  |
