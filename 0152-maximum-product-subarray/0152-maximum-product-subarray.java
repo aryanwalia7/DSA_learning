@@ -1,16 +1,18 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int pos=nums[0];
-        int neg=nums[0];
-        int max=nums[0];
+        int bmxe=nums[0];
+        int bmne=nums[0];
+        int res=nums[0];
         for(int i=1;i<nums.length;i++){
-            int npos=Math.max(nums[i],Math.max(nums[i]*pos,nums[i]*neg));
-            int nneg=Math.min(nums[i],Math.min(nums[i]*pos,nums[i]*neg));
-
-            pos=npos;
-            neg=nneg;
-            max=Math.max(pos,max);
+            int pmx=bmxe;
+            int pnx=bmne;
+            int v1=pmx*nums[i];
+            int v2=pnx*nums[i];
+            int v3=nums[i];
+            bmxe=Math.max(v3,Math.max(v1,v2));
+            bmne=Math.min(v3,Math.min(v1,v2));
+            res=Math.max(res,Math.max(bmxe,bmne));
         }
-        return max;
+        return res;
     }
 }
